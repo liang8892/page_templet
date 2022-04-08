@@ -1,1 +1,1 @@
-# page_templet
+# Page with theme.
